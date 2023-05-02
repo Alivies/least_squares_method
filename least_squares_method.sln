@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "least_squares_method", "least_squares_method.csproj", "{ACA575B2-1D4F-4210-BC25-E3E6DDE00040}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACA575B2-1D4F-4210-BC25-E3E6DDE00040}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACA575B2-1D4F-4210-BC25-E3E6DDE00040}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACA575B2-1D4F-4210-BC25-E3E6DDE00040}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACA575B2-1D4F-4210-BC25-E3E6DDE00040}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00164920-8760-4FEE-90A6-8A5302B67282}
+	EndGlobalSection
+EndGlobal

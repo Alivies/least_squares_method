@@ -1,0 +1,16 @@
+E:\universitet\program\least_squares_method\obj\Debug\least_squares_method.csproj.AssemblyReference.cache
+E:\universitet\program\least_squares_method\obj\Debug\least_squares_method.csproj.SuggestedBindingRedirects.cache
+E:\universitet\program\least_squares_method\obj\Debug\least_squares_method.Form1.resources
+E:\universitet\program\least_squares_method\obj\Debug\least_squares_method.Properties.Resources.resources
+E:\universitet\program\least_squares_method\obj\Debug\least_squares_method.csproj.GenerateResource.cache
+E:\universitet\program\least_squares_method\obj\Debug\least_squares_method.csproj.CoreCompileInputs.cache
+E:\universitet\program\least_squares_method\bin\Debug\least_squares_method.exe.config
+E:\universitet\program\least_squares_method\bin\Debug\least_squares_method.exe
+E:\universitet\program\least_squares_method\bin\Debug\least_squares_method.pdb
+E:\universitet\program\least_squares_method\bin\Debug\OxyPlot.dll
+E:\universitet\program\least_squares_method\bin\Debug\OxyPlot.WindowsForms.dll
+E:\universitet\program\least_squares_method\bin\Debug\OxyPlot.xml
+E:\universitet\program\least_squares_method\bin\Debug\OxyPlot.WindowsForms.xml
+E:\universitet\program\least_squares_method\obj\Debug\least_squares_method.csproj.CopyComplete
+E:\universitet\program\least_squares_method\obj\Debug\least_squares_method.exe
+E:\universitet\program\least_squares_method\obj\Debug\least_squares_method.pdb
