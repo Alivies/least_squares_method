@@ -60,6 +60,7 @@
             this.GridTable.RowTemplate.Height = 24;
             this.GridTable.Size = new System.Drawing.Size(242, 206);
             this.GridTable.TabIndex = 0;
+            this.GridTable.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.GridTable_CellContentClick);
             // 
             // Column1
             // 

@@ -302,22 +302,31 @@ namespace least_squares_method
                     string Formula = $"({Coefficients[0]} * x) + ({Coefficients[1]})";
                     ApproximatedPoints = GetApproximatedPoints(Points, Formula, Coefficients);
                     DrawGraphic(Points, ApproximatedPoints, false);
+                   /* if (Coefficients[0] == 0)
+                    {
+                        Function.Text = $"Формула: {Points[0][0]}";
+                    }
+                    else
+                    {
+                        Function.Text = $"Формула: {Coefficients[0]}x + {Coefficients[1]}";
+                    }*/
+
                     if (Coefficients[0] == 0)
                     {
                         Function.Text = $"Формула: {Points[0][0]}";
                     }
 
-                        if (Coefficients[0] == 1)
-                        {
-                            Function.Text = $"Формула: {0 + Points[0][0]}";
-                        }
- 
+                    if (Coefficients[0] < 1)
+                    {
+                        Function.Text = $"Формула: {0 + Points[0][0]}";
+                    }
+
 
                     else
                     {
-                        Function.Text = $"Формула: {Coefficients[0]}x + {Coefficients[1]}";
+                        Function.Text = $"Формула:  {0 + "x+" + Coefficients[1]}";
                     }
-                   
+
                 }
                 else
                 {
@@ -486,5 +495,9 @@ namespace least_squares_method
             Function.Text = "";
         }
 
+        private void GridTable_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }
